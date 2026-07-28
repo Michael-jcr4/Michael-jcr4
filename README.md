@@ -10,12 +10,12 @@
 
 ### 🚀 Skills
 
-**Programming:** Python, Java, C++, C#, JavaScript, SQL
-**Web:** HTML, CSS, JavaScript, Node.js, Express, EJS
-**Databases:** MongoDB, Microsoft SQL Server, Apache Derby
-**Tools:** Visual Studio, Visual Studio Code, NetBeans, Git
-**Data Science:** Anaconda Navigator, Jupyter Notebook, NLTK, scikit-learn
-**Cloud/Other:** Azure AD, Microsoft Power Platform (Power Apps, Power Automate, Power BI)
+- **Programming:** Python, Java, C++, C#, JavaScript, SQL
+- **Web:** HTML, CSS, JavaScript, Node.js, Express, EJS
+- **Databases:** MongoDB, Microsoft SQL Server, Apache Derby
+- **Tools:** Visual Studio, Visual Studio Code, NetBeans, Git
+- **Data Science:** Anaconda Navigator, Jupyter Notebook, NLTK, scikit-learn
+- **Cloud/Other:** Azure AD, Microsoft Power Platform (Power Apps, Power Automate, Power BI)
 
 \---
 
