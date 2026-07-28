@@ -21,11 +21,11 @@
 
 ### 📂 Projects
 
-* [Immersive AR/VR Campus Tour Mobile Application](https://github.com/your-username/ar-vr-campus-tour) — Unity 3D and Firebase-based tour built for Belgium Campus Open Day
-* [Smart Event Management \& Ticketing Platform](https://github.com/your-username/smart-event-management) — Full-stack MVC app using Node.js, Express, EJS, and MongoDB
-* [Credit Risk Assessment System](https://github.com/your-username/credit-risk-assessment) — Machine learning model for evaluating credit risk
-* [Cleaning Inventory Management System](https://github.com/your-username/cleaning-inventory-system) — Java desktop app with role-based authentication, built in NetBeans with a Derby database
-* [BC WildWatch™ Portal](https://github.com/your-username/bc-wildwatch) — Deployment project built on Microsoft Power Platform with Azure AD authentication
+* [Immersive AR/VR Campus Tour Mobile Application](https://github.com/Chante-Fasen/KP-BCOM-Group-1) — Unity 3D and Firebase-based tour built for Belgium Campus Open Day
+* [Smart Event Management \& Ticketing Platform](https://github.com/Michael-jcr4/Smart_Event_Management_-_Ticketing_Platform) — Full-stack MVC app using Node.js, Express, EJS, and MongoDB
+* [Credit Risk Assessment System](https://github.com/Michael-jcr4/Credit_Risk_Assessment_System) — Machine learning model for evaluating credit risk
+* [Cleaning Inventory Management System](https://github.com/AidanL13/PRG381-Group-Project) — Java desktop app with role-based authentication, built in NetBeans with a Derby database
+* [BC WildWatch™ Portal] — Deployment project built on Microsoft Power Platform with Azure AD authentication
 
 \---
 
