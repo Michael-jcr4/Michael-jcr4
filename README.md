@@ -35,7 +35,6 @@
 **Bachelor of Computing (Software Engineering)** — Belgium Campus ITversity, Kempton Park (2024 – Current)
 Coursework in Web Programming, Machine Learning, Database Development, Information Systems, and Project Management
 
-\---
 
 ### 
 
