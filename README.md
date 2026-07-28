@@ -25,7 +25,7 @@
 * [Smart Event Management \& Ticketing Platform](https://github.com/Michael-jcr4/Smart_Event_Management_-_Ticketing_Platform) — Full-stack MVC app using Node.js, Express, EJS, and MongoDB
 * [Credit Risk Assessment System](https://github.com/Michael-jcr4/Credit_Risk_Assessment_System) — Machine learning model for evaluating credit risk
 * [Cleaning Inventory Management System](https://github.com/AidanL13/PRG381-Group-Project) — Java desktop app with role-based authentication, built in NetBeans with a Derby database
-* [BC WildWatch™ Portal] — Deployment project built on Microsoft Power Platform with Azure AD authentication
+* BC WildWatch™ Portal — Deployment project built on Microsoft Power Platform with Azure AD authentication
 
 \---
 
