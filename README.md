@@ -25,8 +25,8 @@
 
 | Project | Backend highlights | Stack |
 |---|---|---|
-| [**Smart Event Management & Ticketing**](https://github.com/Michael-jcr4/Smart_Event_Management_-_Ticketing_Platform) | MVC web app with user authentication, admin dashboards and real-time ticket capacity control | Node.js, Express, MongoDB, EJS |
 | [**CivicConnect**](https://github.com/AidanSm2103/SEN381_CivicConnect) | Service-request tracking system. As Requirements & Evidence Lead I turned stakeholder needs into testable requirements with acceptance criteria and traceability | C# |
+| [**Immersive AR/VR Campus Tour**](https://github.com/Chante-Fasen/KP-BCOM-Group-1) | Team lead. Built the hotspot system, VR navigation and scene linking, backed by Firebase; produced the ERD and data-flow design | Unity, C#, Firebase |
 
 ---
 
