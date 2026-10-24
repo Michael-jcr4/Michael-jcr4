@@ -27,8 +27,7 @@
 |---|---|---|---|
 | [**Immersive AR/VR Campus Tour**](https://github.com/Chante-Fasen/KP-BCOM-Group-1) | Android/VR tour of the Belgium Campus for Open Day, with 360° scenes and interactive hotspots | Team lead · UI, VR navigation, hotspot system & scene linking | Unity, C#, Firebase |
 | [**CivicConnect**](https://github.com/AidanSm2103/SEN381_CivicConnect) | Service-request tracking system for an organisation | Requirements & Evidence Lead · FRs/NFRs, acceptance criteria, traceability | C# |
-| [**Smart Event Management & Ticketing**](https://github.com/Michael-jcr4/Smart_Event_Management_-_Ticketing_Platform) | Event booking platform with auth, admin dashboards and real-time capacity control | Full-stack developer | Node.js, Express, EJS, MongoDB |
-| [**Credit Risk Assessment System**](https://github.com/Michael-jcr4/Credit_Risk_Assessment_System) | Decision support system that predicts loan default risk | ML & app developer | Python, scikit-learn, Jupyter |
+
 
 ---
 
