@@ -49,7 +49,7 @@
 
 ### 📚 Areas I've studied
 
-Distributed databases & concurrency control · Machine learning (regression, SVMs, decision trees, neural networks) · Operations research & integer programming · Async JavaScript · Requirements engineering
+Distributed databases & concurrency control ·  Operations research & integer programming · Async JavaScript · Requirements engineering
 
 ---
 
