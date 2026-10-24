@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://drive.google.com/file/d/1APV3YGoFICg_JgHbByvygYpmk3Ww_RKI/view?usp=sharing"><img src="https://img.shields.io/badge/CV-View-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/></a>
   <a href="mailto:michael.jcr04@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Open_to-Graduate_Backend_roles-2ea44f?style=for-the-badge" alt="Open to graduate backend roles"/>
 </p>
 
 ---
