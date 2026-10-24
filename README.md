@@ -4,8 +4,8 @@
 * 🌱 Passionate about Web Development, Machine Learning, and Database Systems
 * 💻 Currently building full-stack apps with Node.js, Express, MongoDB, and Java/NetBeans
 * 💼 Seeking internship/graduate opportunities in software development
-* 📄 [View my CV](https://drive.google.com/file/d/16k5d8MA3RrKhHVDAP07RptKZqWDcCXIv/view?usp=drive_link)
-* 📫 Reach me at mjcrobinson04@gmail.com
+* 📄 [View my CV](https://drive.google.com/file/d/1APV3YGoFICg_JgHbByvygYpmk3Ww_RKI/view?usp=sharing)
+* 📫 Reach me at michael.jcr04@gmail.com
 
 \---
 
